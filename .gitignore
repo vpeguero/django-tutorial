@@ -79,6 +79,7 @@ celerybeat-schedule
 .env
 
 # virtualenv
+pythonenv/
 venv/
 ENV/
 
